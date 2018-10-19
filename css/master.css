@@ -1,0 +1,8 @@
+* {
+  outline: 2px solid #000;
+}
+
+/* resets */
+div, section, article, ul {
+  height: 100%;
+}
